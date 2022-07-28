@@ -1,0 +1,53 @@
+.main{
+    background-image: url("./images/forest.jpg");
+    color: white;
+    
+}
+.section{
+    display: flex;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: green;
+    
+}
+.nav--photo{
+    width: 80px;
+    
+}
+.contact--photo{
+    width: 150px;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+.diva{
+    display: flex;
+    align-items: center;
+}
+.contact--photo1{
+    width: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.diva1{
+    display: flex;
+    align-items: center;
+    padding-right: 10px;
+}
+.contact--photo2{
+    width: 20px;
+    margin-left: 10px;
+    height: 100%;
+    margin-right: 10px;
+}
+.contact--photo3{
+    width: 150px;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+.footer{
+    background-color: fuchsia;
+    font-family: "poppins", sans-serif;
+}
